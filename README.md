@@ -15,7 +15,7 @@ A logistic regression model to assign a lead score between 0 and 100 to each of 
 score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
 ## Files in Repository
-- Lead Scoring Case Study python file.
+- Lead Scoring Case Study python file
 - Leads.csv - Data File
 - Leads Data Dictionary
 - Presentation file
